@@ -1,13 +1,13 @@
 {
     "$schema": "https://raw.githubusercontent.com/platformio/platformio-core/develop/platformio/assets/schema/library.json",
-    "name": "json2asw",
+    "name": "asw2json",
     "version": "1.0.2",
     "description":"This library provides a c++ class that enables reading json sf2 data from a file and converting it to a Teensy Audio Library AudioSynthWavetable::instrument_data object." ,
     "keywords": "teensy, audio, soundfont. json",
     "repository":
     {
       "type": "git",
-      "url": "https://github.com/rogerjames99/json2aws.git"
+      "url": "https://github.com/rogerjames99/asw2json.git"
     },
     "authors":
     [
